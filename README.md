@@ -18,7 +18,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<video> <source src='https://i.imgur.com/Cfywzy4.mp4'> title='Video Walkthrough' width='' alt='Video Walkthrough' /> </video>
+<video width="650" height="360" controls> <source src='https://i.imgur.com/Cfywzy4.mp4' type="video/mp4"> title='Video Walkthrough' width='' alt='Video Walkthrough' /> </video>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
